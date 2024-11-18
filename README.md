@@ -1,4 +1,3 @@
-# Brent_Oil_PriceEventAnalysis
 Exploring and Forecasting Brent Oil Prices: A Deep Dive into Time Series Analysis
 Introduction
 The fluctuating prices of crude oil significantly influence global economies and industries, making it crucial to analyze and predict oil price trends effectively. In this blog, we summarize the findings and methodologies from two comprehensive tasks focused on understanding Brent oil prices.
